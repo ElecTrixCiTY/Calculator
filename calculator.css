@@ -102,6 +102,13 @@ button{
 h1{
     margin-left: 5vw;
 }
+.display{
+    text-align: right;
+    font-size: 2rem;
+    color: blue;
+    padding: 2rem 2rem;
+
+}
 
 }
 }
@@ -127,5 +134,13 @@ button{
 h1{
     margin-left: 5vw;
 }
+.display{
+    text-align: right;
+    font-size: 2rem;
+    color: blue;
+    padding: 2rem 2rem;
 
+}
+
+}
 }
